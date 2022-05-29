@@ -10,3 +10,4 @@ Command-line wordle game clone in Python
 - Any 5 letter word can be entered
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/47540683/170892843-5af5c19f-cd4d-4568-a3eb-6045069d98ad.png)
